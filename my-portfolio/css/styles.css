@@ -7,13 +7,13 @@
      font-weight: normal;
 
  }
- /* .background{ */
+ .background{
     background-image:url(../images/background.jpeg);
     background-repeat: no-repeat;
     background-size: 1300px;
     height: 1200px;
  }
- /* .background > nav { */
+ .background > nav {
      font-size: 30px;
      display: flex;
      float: right;
