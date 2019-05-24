@@ -15,7 +15,16 @@
  }
  .background > nav {
      font-size: 30px;
-     display: flex;
-     float: right;
+     display: block;
      text-decoration: none;
+ }
+
+ #nav a{
+     text-decoration: none;
+     
+ }
+
+ #nav{
+     display:block;
+    flex-direction: column;
  }
