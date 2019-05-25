@@ -4,14 +4,14 @@
      height:100%;
      font-size: 14px;
      font-weight: normal;
-     background-color:blueviolet;
+     background-color:lightsalmon;
 
  }
- /* .background{ */
-    /* background-image:url(../images/background.jpeg); */
-    /* background-repeat: no-repeat; */
-    /* background-size: 2000px; */
-    /* height: 1200px; */
+ .background{
+    background-image:url(../images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 1000px;
     
  }
  .background > nav {
@@ -27,9 +27,16 @@
 
  #nav{
      display:block;
-    flex-direction: column;
+    flex-direction: row;
  }
  #about{
-     margin-bottom: 10%;
+     margin-bottom: 20px;
  }
+
+ #nav{
+     text-align: center;
+ }
+
+
+}
  
