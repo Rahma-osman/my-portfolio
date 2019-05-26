@@ -72,7 +72,12 @@ li a {
     text-align: center;
     padding: 3px 5px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 19px;
+  }
+
+  li a:hover {
+    background-color: rgb(4, 23, 83);
+    color: white;
   }
 
 #title {
@@ -119,20 +124,6 @@ footer {
     background: #125688;
     color: white;
   }
-  
-
-/* #email{
-    text-align: left;
-} */
-
-/* #phone{
-    text-align: center;
-} */
-
-/* #address{
-    
-    text-align: right;
-} */
 
 }
  
