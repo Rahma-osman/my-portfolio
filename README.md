@@ -2,14 +2,14 @@
 This is a web portfolio {26/04/2019}
 #### By Rahma Osman
 ## Description
-This is a web portfolio that showcases my work, my programming skills by giving a brief decription about me 
+This is a web portfolio that showcases my work, my programming skills and gives a brief decription about me 
 ## Setup
 * Clone the repository `https://github.com/Rahma-osman/my-portfolio.git`
 * cd my-portfolio
 * open the index.html file from a browser
 ## Technologies Used
-Html
-Css
+* Html
+* Css
 ## Support and contact details
 rahmitaosman@gmail.com
 ### License
