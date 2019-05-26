@@ -125,5 +125,17 @@ footer {
     color: white;
   }
 
+  .container {
+    position: relative;
+    width: 200px;
+    max-width: 200px;
+  }
+  
+  .image {
+    margin-left: 540px;
+    width: 100%;
+    height: 200px;
+    right: 50%;
+  }
 }
  
